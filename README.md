@@ -8,5 +8,5 @@
 4. 计算属性： computed
 5. 监听器： watch  
   
-**项目截图：**
+**项目截图：**  
 <img src="https://raw.githubusercontent.com/guohaowu/ios12-iphone-calculator/master/src/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190403104818.png" width="640"  align=center />
