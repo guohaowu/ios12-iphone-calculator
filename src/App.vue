@@ -271,7 +271,6 @@ export default {
         duration: 500
       })
     },
-
     clickButton (index) {
       /* ——————————————————————计算逻辑—————————————————————— */
       if (index === 18) {
